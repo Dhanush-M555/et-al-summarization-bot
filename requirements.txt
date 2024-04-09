@@ -1,5 +1,6 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+langchain
+langchain-community
+PyPDF2
+huggingface_hub
+transformers
